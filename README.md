@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Hello ,
 I'm Bar James 
 Graduate of the Full Stack Web Development course at John Bryce academy.
 Skilled in :
