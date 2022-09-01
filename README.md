@@ -18,7 +18,7 @@ Sociable and integrates great within a team, and a strong desire to develop in t
 Love coding and I have passion to learn and expolre new technologies.
 
 Please feel free to connect through this profile, via email or LinkedIn: </br>
-barjames7@gmail.com </br>
+email: barjames7@gmail.com </br>
 LinkedIn: www.linkedin.com/in/bar-james</br>
 
 Personal protfolio: https://barjames.herokuapp.com
