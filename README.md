@@ -25,4 +25,4 @@ Personal protfolio: https://barjames.herokuapp.com
 
 
 
-![Quotefancy-2896496-3840x2160](https://user-images.githubusercontent.com/84085280/187913944-f8992685-1b52-47c6-a08b-4d25e46699a6.jpg)
+![Quotefancy-50586-3840x2160](https://user-images.githubusercontent.com/84085280/187914319-c0af3e4e-4b62-4eae-b594-c208f74487c9.jpg)
