@@ -22,3 +22,7 @@ Email: barjames7@gmail.com </br>
 LinkedIn: www.linkedin.com/in/bar-james</br>
 
 Personal protfolio: https://barjames.herokuapp.com
+
+
+
+![Quotefancy-2896496-3840x2160](https://user-images.githubusercontent.com/84085280/187913944-f8992685-1b52-47c6-a08b-4d25e46699a6.jpg)
