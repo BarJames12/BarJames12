@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**BarJames12/BarJames12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello ,
 I'm Bar James 
 Graduate of the Full Stack Web Development course at John Bryce academy.
