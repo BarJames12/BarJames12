@@ -13,9 +13,9 @@ Skilled in :
 - Git and GitHub
 
 
-I have an independent learning ability , is fully motivated and has a high work ethic.
-Sociable and integrates great within a team, and a strong desire to develop in the workplace and learn.
-Love coding and I have passion to learn and expolre new technologies.
+I have an independent learning ability , is fully motivated and has a high work ethic. </br>
+Sociable and integrates great within a team, and a strong desire to develop in the workplace and learn. </br>
+Love coding and I have passion to learn and expolre new technologies. </br>
 
 Please feel free to connect through this profile, via email or LinkedIn: </br>
 Email: barjames7@gmail.com </br>
