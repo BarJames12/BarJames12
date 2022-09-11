@@ -3,7 +3,7 @@
 
 I'm Bar James 
 Graduate of the Full Stack Web Development course at John Bryce academy. </br>
-Skilled in :
+<b>Skilled in :</b>
 - HTML, CSS ,Sass
 - jQuery
 - JavaScript, TypeScript
