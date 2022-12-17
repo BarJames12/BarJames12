@@ -21,7 +21,7 @@ Please feel free to connect through this profile, via email or LinkedIn: </br>
 Email: barjames7@gmail.com </br>
 LinkedIn: www.linkedin.com/in/bar-james</br>
 
-Personal protfolio: https://barjames.herokuapp.com
+Personal protfolio: https://barjames.netlify.app/
 
 
 
