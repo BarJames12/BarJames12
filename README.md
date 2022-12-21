@@ -5,7 +5,7 @@ I'm Bar James
 Graduate of the Full Stack Web Development course at John Bryce academy. </br>
 <b>Skilled in :</b>
 - HTML, CSS ,Sass
-- TailWind CSS
+- Tailwind CSS
 - jQuery
 - JavaScript, TypeScript
 - Angular, React 
