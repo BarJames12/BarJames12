@@ -25,5 +25,4 @@ LinkedIn: www.linkedin.com/in/bar-james</br>
 Personal protfolio: https://barjames.netlify.app/
 
 
-
-![Quotefancy-50586-3840x2160](https://user-images.githubusercontent.com/84085280/187914319-c0af3e4e-4b62-4eae-b594-c208f74487c9.jpg)
+![Quotefancy-2020956-3840x2160](https://user-images.githubusercontent.com/84085280/210616560-505e31b7-b280-4201-9e66-6d1d0fcf1b10.jpg)
