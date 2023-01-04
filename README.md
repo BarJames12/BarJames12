@@ -14,7 +14,7 @@ Graduate of the Full Stack Web Development course at John Bryce academy. </br>
 - Git and GitHub
 
 
-I have an independent learning ability , is fully motivated and has a high work ethic. </br>
+I have an independent learning ability , fully motivated and having a high work ethic. </br>
 Sociable and integrates great within a team, and a strong desire to develop in the workplace and learn. </br>
 Love coding and I have passion to learn and expolre new technologies. </br>
 
