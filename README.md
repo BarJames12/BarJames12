@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
-I'm Bar James 
-Graduate of the Full Stack Web Development course at John Bryce academy. </br>
+𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, nice to meet you,   </br>
+and thanks for visiting my profile! 🤙🏽  </br>
+ </br>
+My name is 𝐁𝐚𝐫 𝐉𝐚𝐦𝐞𝐬,   </br>
+and I am looking for a Frontend/Full Stack position. 💻  </br>
 
 𝐖𝐡𝐨 𝐚𝐦 𝐈 ? </br>
  · Independent learning ability, fully motivated and a high work ethic. </br>
