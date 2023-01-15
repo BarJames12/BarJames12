@@ -19,6 +19,7 @@ Graduate of the Full Stack Web Development course at John Bryce academy. </br>
 - NodeJS, PHP
 - MySQL ,MongoDB
 - Git and GitHub
+- And more will come ...
 
 
 Please feel free to connect through this profile, via email or LinkedIn: </br>
