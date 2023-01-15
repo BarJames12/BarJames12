@@ -5,9 +5,9 @@ I'm Bar James
 Graduate of the Full Stack Web Development course at John Bryce academy. </br>
 
 𝐖𝐡𝐨 𝐚𝐦 𝐈 ? 
- · Independent learning ability, fully motivated and a high work ethic.
- · Sociable and integrated great within a team, and a strong desire to develop in and with the workplace.
- · Looking for a place that will challenge me, and give me the first opportunity in the field. 
+ · Independent learning ability, fully motivated and a high work ethic. </br>
+ · Sociable and integrated great within a team, and a strong desire to develop in and with the workplace. </br>
+ · Looking for a place that will challenge me, and give me the first opportunity in the field.  </br>
 
 
 <b>Skilled in :</b>
