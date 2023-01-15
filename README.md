@@ -3,6 +3,13 @@
 
 I'm Bar James 
 Graduate of the Full Stack Web Development course at John Bryce academy. </br>
+
+𝐖𝐡𝐨 𝐚𝐦 𝐈 ? 
+ · Independent learning ability, fully motivated and a high work ethic.
+ · Sociable and integrated great within a team, and a strong desire to develop in and with the workplace.
+ · Looking for a place that will challenge me, and give me the first opportunity in the field. 
+
+
 <b>Skilled in :</b>
 - HTML, CSS ,Sass
 - Tailwind CSS
@@ -13,10 +20,6 @@ Graduate of the Full Stack Web Development course at John Bryce academy. </br>
 - MySQL ,MongoDB
 - Git and GitHub
 
-
-I have an independent learning ability , fully motivated and having a high work ethic. </br>
-Sociable and integrates great within a team, and a strong desire to develop in the workplace and learn. </br>
-Love coding and I have passion to learn and expolre new technologies. </br>
 
 Please feel free to connect through this profile, via email or LinkedIn: </br>
 Email: barjames7@gmail.com </br>
