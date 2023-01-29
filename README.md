@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-
-𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, nice to meet you,   </br>
+     
+     nice to meet you,   </br>
 and thanks for visiting my profile! 🤙🏽  </br>
  </br>
 My name is 𝐁𝐚𝐫 𝐉𝐚𝐦𝐞𝐬,   </br>
