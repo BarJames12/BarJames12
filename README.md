@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey there, 👋
+    
      </br>
-     nice to meet you,   </br>
-and thanks for visiting my profile! 🤙🏽  </br>
+ nice to meet you, and thanks for visiting my profile! 🤙🏽  </br>
  </br>
 My name is 𝐁𝐚𝐫 𝐉𝐚𝐦𝐞𝐬,   </br>
 and I am looking for a Frontend/Full Stack position. 💻  </br>
